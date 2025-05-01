@@ -31,8 +31,15 @@
 
 ## 📦 Installation
 
+## Go-Lang Installer (Self-Install)
+
 ```bash
-git clone https://github.com/nxneeraj/hx-hawks.git
+go install github.com/hxbunny/hx-hawks@latest
+```
+
+### Manual
+```bash
+git clone https://github.com/hxbunny/hx-hawks.git
 cd hx-hawks
 go build -o hx-hawks main.go
 ```
