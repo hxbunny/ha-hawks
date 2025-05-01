@@ -22,7 +22,7 @@
   - 🟥 Red: Vulnerable URLs  
   - ⚪ White: Safe responses  
   - 🔵 Blue: Vulnerable responses  
-  - 💖 Pink: Matched keywords
+  - 💗 Pink: Matched keywords
 - 🧠 Smart filters, retries, timeouts, custom headers
 - 🌐 **Built-in API server** (SSE + RESTful) for real-time results
 - 🛠️ Ready for integration into future tools like **Fruttry**, **Hx-Bunny**, or custom dashboards
